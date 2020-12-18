@@ -1,57 +1,57 @@
-## version $VER: XX.catalog XX.XX (XX.XX.XX)
-## codeset X
-## language X
+## version $VER: gemeric.catalog 1.0 (18.12.2020)
+## codeset 0
+## language türkçe
 ;
 MSG_MENU_PROJECT
-
+Proje
 ; Project
 ;
 MSG_MENU_NEW
-
+Yeni
 ; New
 ;
 MSG_KEY_NEW
-
+N
 ; N
 ;
 MSG_MENU_OPEN
-
+Aç...
 ; Open...
 ;
 MSG_KEY_OPEN
-
+O
 ; O
 ;
 MSG_MENU_SAVE1
-
+Kaydet
 ; Save
 ;
 MSG_KEY_SAVE
-
+S
 ; S
 ;
 MSG_MENU_SAVEAS
-
+Kaydet...
 ; Save As...
 ;
 MSG_KEY_SAVEAS
-
+A
 ; A
 ;
 MSG_MENU_PRINT
-
+Yazdır
 ; Print
 ;
 MSG_KEY_PRINT
-
+P
 ; P
 ;
 MSG_MENU_PRINTAS
-
+Farklı Yazdır...
 ; Print As...
 ;
 MSG_MENU_HIDE
-
+Gizle
 ; Hide
 ;
 MSG_MENU_REVEAL
@@ -59,174 +59,174 @@ MSG_MENU_REVEAL
 ; Reveal...
 ;
 MSG_MENU_CLOSE
-
+Kapat
 ; Close
 ;
 MSG_MENU_ABOUT
-
+Hakkında...
 ; About...
 ;
 MSG_KEY_ABOUT
-
+?
 ; ?
 ;
 MSG_MENU_EXIT
-
+Çıkış
 ; Exit
 ;
 MSG_MENU_QUIT
-
+Çık..
 ; Quit...
 ;
 MSG_KEY_QUIT
-
+Q
 ; Q
 ;
 MSG_MENU_EDIT
-
+Düzen
 ; Edit
 ;
 MSG_MENU_CUT
-
+Kes
 ; Cut
 ;
 MSG_KEY_CUT
-
+X
 ; X
 ;
 MSG_MENU_COPY
-
+Kopyala
 ; Copy
 ;
 MSG_KEY_COPY
-
+C
 ; C
 ;
 MSG_MENU_PASTE
-
+Yapıştır
 ; Paste
 ;
 MSG_KEY_PASTE
-
+V
 ; V
 ;
 MSG_MENU_ERASE
-
+Sil
 ; Erase
 ;
 MSG_KEY_ERASE
-
+E
 ; E
 ;
 MSG_MENU_UNDO
-
+Geri Al
 ; Undo
 ;
 MSG_KEY_UNDO
-
+Z
 ; Z
 ;
 MSG_MENU_REDO
-
+Yinele
 ; Redo
 ;
 MSG_MENU_MACROS
-
+Makrolar
 ; Macros
 ;
 MSG_MENU_STARTLEARNING
-
+Öğren
 ; Start Learning
 ;
 MSG_MENU_STOPLEARNING
-
+Öğrenmeyi Durdur
 ; Stop Learning
 ;
 MSG_MENU_ASSIGNMACRO
-
+Makro Ata...
 ; Assign Macro...
 ;
 MSG_MENU_LOAD
-
+Yükle...
 ; Load...
 ;
 MSG_MENU_SAVE2
-
+Kaydet...
 ; Save...
 ;
 MSG_MENU_SETTINGS
-
+Ayarlar
 ; Settings
 ;
 MSG_MENU_CREATEICONS
-
+Simge Oluştur?
 ; Create Icons?
 ;
 MSG_KEY_CREATEICONS
-
+I
 ; I
 ;
 MSG_MENU_LOADSETTINGS
-
+Ayarları Yükle...
 ; Load Settings...
 ;
 MSG_MENU_SAVESETTINGS
-
+Ayarları Kaydet
 ; Save Settings
 ;
 MSG_MENU_SAVESETTINGSAS
-
+Ayarları Farklı Kaydet...
 ; Save Settings As...
 ;
 MSG_MENU_USER
-
+Kullanıcı
 ; User
 ;
 MSG_MENU_HELP
-
+Yardım
 ; Help
 ;
 MSG_MENU_ICONIFY
-
+Simge Durumu
 ; Iconify
 ;
 MSG_MENU_MANUAL
-
+Manuel...
 ; Manual...
 ;
 MSG_KEY_MANUAL
-
+M
 ; M
 ;
 MSG_MENU_POINTER
-
+İşaretçi?
 ; Pointer?
 ;
 MSG_MENU_REVERT
-
+Eski Haline Dön
 ; Revert
 ;
 MSG_KEY_REVERT
-
+R
 ; R
 ;
 MSG_MENU_TITLEBAR
-
+Başlık Çubuğu?
 ; Titlebar?
 ;
 MSG_MENU_TOOLS
-
+Araçlar
 ; Tools
 ;
 MSG_MENU_VIEW
-
+Göster
 ; View
 ;
 MSG_CANTLOCK_NAMED
-
+Genel ekran kilitlenemedi \"%s\"!
 ; Can't lock public screen \"%s\"!
 ;
 MSG_CANTLOCK_DEFAULT
-
+Varsayılan Genel ekran kilitlenemedi!
 ; Can't lock default public screen!
 ;
