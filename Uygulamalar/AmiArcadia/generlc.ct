@@ -1,0 +1,232 @@
+## version $VER: XX.catalog XX.XX (XX.XX.XX)
+## codeset X
+## language X
+;
+MSG_MENU_PROJECT
+
+; Project
+;
+MSG_MENU_NEW
+
+; New
+;
+MSG_KEY_NEW
+
+; N
+;
+MSG_MENU_OPEN
+
+; Open...
+;
+MSG_KEY_OPEN
+
+; O
+;
+MSG_MENU_SAVE1
+
+; Save
+;
+MSG_KEY_SAVE
+
+; S
+;
+MSG_MENU_SAVEAS
+
+; Save As...
+;
+MSG_KEY_SAVEAS
+
+; A
+;
+MSG_MENU_PRINT
+
+; Print
+;
+MSG_KEY_PRINT
+
+; P
+;
+MSG_MENU_PRINTAS
+
+; Print As...
+;
+MSG_MENU_HIDE
+
+; Hide
+;
+MSG_MENU_REVEAL
+
+; Reveal...
+;
+MSG_MENU_CLOSE
+
+; Close
+;
+MSG_MENU_ABOUT
+
+; About...
+;
+MSG_KEY_ABOUT
+
+; ?
+;
+MSG_MENU_EXIT
+
+; Exit
+;
+MSG_MENU_QUIT
+
+; Quit...
+;
+MSG_KEY_QUIT
+
+; Q
+;
+MSG_MENU_EDIT
+
+; Edit
+;
+MSG_MENU_CUT
+
+; Cut
+;
+MSG_KEY_CUT
+
+; X
+;
+MSG_MENU_COPY
+
+; Copy
+;
+MSG_KEY_COPY
+
+; C
+;
+MSG_MENU_PASTE
+
+; Paste
+;
+MSG_KEY_PASTE
+
+; V
+;
+MSG_MENU_ERASE
+
+; Erase
+;
+MSG_KEY_ERASE
+
+; E
+;
+MSG_MENU_UNDO
+
+; Undo
+;
+MSG_KEY_UNDO
+
+; Z
+;
+MSG_MENU_REDO
+
+; Redo
+;
+MSG_MENU_MACROS
+
+; Macros
+;
+MSG_MENU_STARTLEARNING
+
+; Start Learning
+;
+MSG_MENU_STOPLEARNING
+
+; Stop Learning
+;
+MSG_MENU_ASSIGNMACRO
+
+; Assign Macro...
+;
+MSG_MENU_LOAD
+
+; Load...
+;
+MSG_MENU_SAVE2
+
+; Save...
+;
+MSG_MENU_SETTINGS
+
+; Settings
+;
+MSG_MENU_CREATEICONS
+
+; Create Icons?
+;
+MSG_KEY_CREATEICONS
+
+; I
+;
+MSG_MENU_LOADSETTINGS
+
+; Load Settings...
+;
+MSG_MENU_SAVESETTINGS
+
+; Save Settings
+;
+MSG_MENU_SAVESETTINGSAS
+
+; Save Settings As...
+;
+MSG_MENU_USER
+
+; User
+;
+MSG_MENU_HELP
+
+; Help
+;
+MSG_MENU_ICONIFY
+
+; Iconify
+;
+MSG_MENU_MANUAL
+
+; Manual...
+;
+MSG_KEY_MANUAL
+
+; M
+;
+MSG_MENU_POINTER
+
+; Pointer?
+;
+MSG_MENU_REVERT
+
+; Revert
+;
+MSG_KEY_REVERT
+
+; R
+;
+MSG_MENU_TITLEBAR
+
+; Titlebar?
+;
+MSG_MENU_TOOLS
+
+; Tools
+;
+MSG_MENU_VIEW
+
+; View
+;
+MSG_CANTLOCK_NAMED
+
+; Can't lock public screen \"%s\"!
+;
+MSG_CANTLOCK_DEFAULT
+
+; Can't lock default public screen!
+;
