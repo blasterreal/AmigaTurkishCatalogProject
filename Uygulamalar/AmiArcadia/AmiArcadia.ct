@@ -1,0 +1,3204 @@
+## version $VER: XX.catalog XX.XX (XX.XX.XX)
+## codeset X
+## language X
+;
+MSG_PROJECT_RESETTOGAME
+
+; Reset to game (F5, Alt-R)
+;
+MSG_PROJECT_RESETTOMONITOR
+
+; Jump to BIOS
+;
+MSG_PROJECT_QUICKLOAD
+
+; Quickload state (Alt-L)
+;
+MSG_PROJECT_SAVEBIN
+
+; BIN/PGM...
+;
+MSG_PROJECT_SAVESNP
+
+; State...
+;
+MSG_PROJECT_QUICKSAVE
+
+; Quicksave state (Alt-S)
+;
+MSG_PROJECT_SAVEACBM
+
+; IFF ACBM...
+;
+MSG_PROJECT_SAVEILBM
+
+; IFF ILBM...
+;
+MSG_PROJECT_SAVEBMP
+
+; BMP...
+;
+MSG_PROJECT_SERVER
+
+; Act as server...
+;
+MSG_PROJECT_CLIENT
+
+; Connect as client...
+;
+MSG_PROJECT_QUIT
+
+; Quit
+;
+MSG_VIEW_CONTROLS
+
+; Controls...
+;
+MSG_VIEW_MONITOR_CPU
+
+; CPU monitor...
+;
+MSG_VIEW_MRAM
+
+; RAM
+;
+MSG_VIEW_SCRN
+
+; Screen
+;
+MSG_VIEW_UDCS
+
+; UDC/sprite imagery
+;
+MSG_VIEW_XVI
+
+; UVI/PVIs
+;
+MSG_VIEW_CPU
+
+; CPU
+;
+MSG_VIEW_PSGS
+
+; PSGs/TMSes
+;
+MSG_MACRO_START
+
+; Start recording...
+;
+MSG_MACRO_RESTART
+
+; Restart playback
+;
+MSG_MACRO_STOP
+
+; Stop recording/playback
+;
+MSG_MACRO_LOOP
+
+; Loop?
+;
+MSG_MACRO_AREXX
+
+; Run ARexx script...
+;
+MSG_DEBUG_CLI
+
+; Debugger?
+;
+MSG_CONTROLLERS_MENU
+
+; Input
+;
+MSG_CONTROLLERS_ANALOGFORGUEST
+
+; Analog for guest?
+;
+MSG_CONTROLLERS_SENSITIVITY
+
+; Sensitivity...
+;
+MSG_CONTROLLERS_AUTOFIRE
+
+; Autofire?
+;
+MSG_CONTROLLERS_REQUIREBUTTON
+
+; Autofire requires firebutton?
+;
+MSG_CONTROLLERS_REDEFINEKEYS
+
+; Redefine keys...
+;
+MSG_CONTROLLERS_SWAPPED
+
+; Swapped? (Alt-J)
+;
+MSG_GRAPHICS_MENU
+
+; Graphics
+;
+MSG_GRAPHICS_1XSIZE
+
+; 1� size (Ctrl-F1)
+;
+MSG_GRAPHICS_2XSIZE
+
+; 2� size (Ctrl-F2)
+;
+MSG_GRAPHICS_3XSIZE
+
+; 3� size (Ctrl-F3)
+;
+MSG_GRAPHICS_NARROW
+
+; Narrow?
+;
+MSG_GRAPHICS_FLAGLINE
+
+; Flag line emulation?
+;
+MSG_MACHINE_MENU
+
+; Machine
+;
+MSG_MACHINE_ARCADIA
+
+; Emerson Arcadia 2001
+;
+MSG_MACHINE_INTERTON
+
+; Interton VC 4000
+;
+MSG_MACHINE_ELEKTOR
+
+; Elektor TV Games Computer
+;
+MSG_SPEED_MENU
+
+; Speed
+;
+MSG_SPEED_PAUSED
+
+; Paused? (P)
+;
+MSG_SPEED_NTSC
+
+; NTSC
+;
+MSG_SPEED_PAL
+
+; PAL
+;
+MSG_SPEED_WARP
+
+; Turbo? (Alt-W)
+;
+MSG_SPRITES_MENU
+
+; Sprites
+;
+MSG_SPRITES_COLLISIONS
+
+; Collisions?
+;
+MSG_SPRITES_DEMULTIPLEX
+
+; Demultiplex?
+;
+MSG_SOUND_MENU
+
+; Sound
+;
+MSG_SOUND_FILTERED
+
+; Filtered?
+;
+MSG_SETTINGS_AUTOSAVE
+
+; Autosave game?
+;
+MSG_SENSEGAME_MENU
+
+; Sense game?
+;
+MSG_HELP_ABOUT
+
+; About AmiArcadia...
+;
+MSG_INFO_NAME
+
+; Game name:
+;
+MSG_INFO_MACHINE
+
+; Machine:
+;
+MSG_INFO_SIZE
+
+; Size:
+;
+MSG_INFO_ADDRESS
+
+; Start address:
+;
+MSG_HAIL_SAVEILBM
+
+; Save Screenshot as IFF ILBM
+;
+MSG_HAIL_SAVEACBM
+
+; Save Screenshot as IFF ACBM
+;
+MSG_HAIL_SAVEBMP
+
+; Save Screenshot as BMP
+;
+MSG_HAIL_SAVEBIN
+
+; Save Game ROM (BIN)
+;
+MSG_HAIL_SAVEPGM
+
+; Save Program (PGM)
+;
+MSG_HAIL_ABOUT
+
+; About AmiArcadia
+;
+MSG_HAIL_AREXX
+
+; Run ARexx Script
+;
+MSG_HAIL_CONTROLS
+
+; Controls
+;
+MSG_HAIL_EDIT
+
+; Edit Register/Memory
+;
+MSG_HAIL_FATALERROR
+
+; Fatal Error
+;
+MSG_HAIL_HOSTNAME
+
+; Enter Hostname
+;
+MSG_HAIL_INFO
+
+; Game Information
+;
+MSG_HAIL_LISTENING
+
+; Listening...
+;
+MSG_HAIL_REDEFINEKEYS
+
+; Redefine Keys
+;
+MSG_HAIL_WARNING
+
+; Warning
+;
+MSG_TOOLTIP_RESETTOGAME
+
+; Reset to game (F5, Alt-R)
+;
+MSG_TOOLTIP_OPEN
+
+; Open (Amiga-O)
+;
+MSG_TOOLTIP_SAVESNP
+
+; Save state (Amiga-S)
+;
+MSG_TOOLTIP_SAVEILBM
+
+; Save screenshot as IFF ILBM (Amiga-_)
+;
+MSG_TOOLTIP_AREXX
+
+; Run ARexx script (Amiga-.)
+;
+MSG_TOOLTIP_AUTOFIRE
+
+; Autofire? (Amiga-B)
+;
+MSG_TOOLTIP_SWAPPED
+
+; Controllers swapped? (Amiga-J, Alt-J)
+;
+MSG_TOOLTIP_PAUSED
+
+; Paused? (P, CDTV Play/Pause)
+;
+MSG_TOOLTIP_WARP
+
+; Turbo speed? (Amiga-T, CDTV Fast Forward, Alt-W)
+;
+MSG_TOOLTIP_COLLISIONS
+
+; Collisions? (Amiga-L)
+;
+MSG_TOOLTIP_FLAGLINE
+
+; Flag line emulation? (Amiga-P)
+;
+MSG_TOOLTIP_SOUND
+
+; Sound? (Amiga-U)
+;
+MSG_CANCEL
+
+; _Cancel
+;
+MSG_CHANGE
+
+; Change
+;
+MSG_CPU_GAD
+
+; 2650 CPU Status
+;
+MSG_FPS
+
+; FPS
+;
+MSG_FPS_GAD
+
+; FPS:
+;
+MSG_FROM
+
+; from
+;
+MSG_NONE
+
+; None
+;
+MSG_OK
+
+; OK
+;
+MSG_PAUSED
+
+; paused
+;
+MSG_PORTNAME
+
+; ARexx port name:
+;
+MSG_PUBSCREEN
+
+; Public screen name:
+;
+MSG_QUITTING
+
+; Quitting
+;
+MSG_RESETTODEFAULTS
+
+; _Reset to defaults
+;
+MSG_PSG1_GAD
+
+; AY-3-8910 PSG #1 Status
+;
+MSG_PSG2_GAD
+
+; AY-3-8910 PSG #2 Status
+;
+MSG_PVI_GAD
+
+; 2636 PVI Status
+;
+MSG_TO
+
+; to
+;
+MSG_USAGE
+
+; Usage
+;
+MSG_UVI_GAD
+
+; 2637 UVI Status
+;
+MSG_ERROR_CREATEGADGETS
+
+; Can't create gadgets!
+;
+MSG_ERROR_OPENWINDOW
+
+; Can't open window!
+;
+MSG_ENGINE_ANALOG
+
+; Analog
+;
+MSG_ENGINE_BYTES
+
+; %d bytes
+;
+MSG_ENGINE_CHANGEDCONTENTS
+
+; Changed contents of %s from $%02X to $%02X.\n\n
+;
+MSG_ENGINE_CLEAREDBP
+
+; Cleared code breakpoint at %s.\n\n
+;
+MSG_ENGINE_CLEAREDWP
+
+; Cleared data watchpoint at %s.\n\n
+;
+MSG_ENGINE_DEBUGHELP
+
+; *<command>                      execute host OS command\n\"<message>                      send message to other player\n=                               list all known labels\n= <address>                     view address as label and hexadecimal\nASM <filename>                  assemble source code\nBASE [!|@|$|%%]                  set default input base\nBC|WC [<addr1> [<addr2>]]       clear bp/wp from addr1 to addr2\nBL|WL                           list all breakpoints/watchpoints\nBP|WP <addr1> [<addr2>] [<addr/reg> <condition> <value>]\n                                add bp/wp from addr1 to addr2\nCLEARCOV                        clear coverage report\nCLEARSYM [<label>]              clear symbol(s)\nCLS                             clear screen (of console window)\nCO <1st-start> <1st-end> <2nd-start>\n                                compare memory blocks\nCOPY|MOVE <source-start> <source-end> <target-start>\n                                 copy memory from source to target\n COVER [<reporttype>]            view coverage report\nD|PEEK <address1> [<address2>]  display address1 to address2 as data\nDEFSYM <label> <address>        define symbol\nDIS [<address1> [<address2>]]   disassemble address1 to address2 as code\nDOKE <address> [<value>]        change word at address to value\nE|POKE <address> [<value>]      change byte at address to value\nED|EDIT <filename>              edit source code\nFILL <addr1> <addr2> <value>    fill addr1 to addr2 with value\nFIND [[<address1> <address2>] <value>]\n                                find value in address1 to address2\nG|P [<address>]                 pause/unpause\nGI                              generate an interrupt\nH|HELP|?                        view this help\nI                               ignore next instruction\nIM [<addr1> <addr2>]            view addr1 to addr2 as imagery\nJ <address>                     jump to address\nL A                             log illegal memory accesses on/off\nL B                             log BIOS calls on/off\nL C                             log inefficient code on/off\nL I                             log illegal instructions on/off\nL P                             log I/O port accesses on/off\nL S                             log subroutine calls on/off\nLOAD <address> <filename>       load binary to address from filename\nLOADSYM [<filename>]            load symbol table from filename\nN                               toggle notation (CALM vs Signetics)\nO                               step over subroutine\nPL                              pause after logging on/off\nR <number>                      run to rasterline number\nR F                             run to next frame\nR I                             run to next interrupt\nR L                             run to end of loop\nR R                             run to next rasterline\nR S                             run to end of subroutine\nREADPORT <port>|C|D             read from I/O port\nREL <source-addr> [*]<target-addr>\n                                calculate relative offset of target-addr\nS                               step next instruction\nSAVE <addr1> <addr2> <filename> save address1 to address2 as filename\nSAVEAOF|SAVEEOF <address1> <address2> <filename> [<startaddress>]\n                                save address1 to address2 as filename\nSAVESYM <filename>              save symbol table as filename\nSAY|SPEAK|SPK <message>         speak message\nSPR 0|1|2                       change sprite display mode\nSWAP <1st-start> <1st-end> <2nd-start>\n                                swap memory blocks\nSYS|SYSTEM                      quit emulator\nT                               trace on/off\nTRAIN [<value>]                 make trainer\nV|VIEW BASIC                    view BASIC variables\nV|VIEW BIOS                     view BIOS RAM\nV|VIEW CPU                      view CPU status\nV|VIEW PSG                      view PSGs/TMSes status\nV|VIEW RAM                      view RAM\nV|VIEW SCRN                     view screen contents\nV|VIEW UDC                      view user-defined characters\nV|VIEW XVI                      view UVI/PVI status\nVB|VERBOSE                      verbose tracing on/off\nWR                              watch reads on/off\nWW NONE|SOME|ALL                watch none/some/all writes\nWRITEPORT <port>|C|D <value>    write to I/O port\n\n
+;
+MSG_ENGINE_DEFAULT
+
+; (default)
+;
+MSG_ENGINE_DIGITAL
+
+; Digital
+;
+MSG_ENGINE_GOING
+
+; Unpausing...\n\n
+;
+MSG_ENGINE_HIGH
+
+; high
+;
+MSG_ENGINE_HITWP
+
+; Instruction at $%X (raster %d) is reading $%X from %s!\n
+;
+MSG_ENGINE_IGNORING
+
+; Ignoring %s instruction at $%X.\n
+;
+MSG_ENGINE_ILLEGALREAD
+
+; Instruction at $%X (raster %d) is reading $%02X from unreadable address %s!\n\n
+;
+MSG_ENGINE_KILOBYTES
+
+; K
+;
+MSG_ENGINE_LOGINSTRUCTIONS
+
+; Log illegal instructions
+;
+MSG_ENGINE_LOGREADWRITES
+
+; Log illegal reads/writes
+;
+MSG_ENGINE_LOW
+
+; low
+;
+MSG_ENGINE_MEDIUM
+
+; medium
+;
+MSG_ENGINE_NO
+
+; No
+;
+MSG_ENGINE_NOCHANGE
+
+; No effect (no change to contents of address).\n\n
+;
+MSG_ENGINE_NOTAPPLICABLE
+
+; n/a
+;
+MSG_ENGINE_OFF
+
+; off
+;
+MSG_ENGINE_ON
+
+; on
+;
+MSG_ENGINE_OFF2
+
+; Off
+;
+MSG_ENGINE_ON2
+
+; On
+;
+MSG_ENGINE_OPEN
+
+; Open Game/State/Recording/Tape
+;
+MSG_ENGINE_OUTOFBOUNDS
+
+; Value is out of bounds (limit is %d)!\n\n
+;
+MSG_ENGINE_READMIRROR
+
+; Instruction at $%X (raster %d) read from mirrored address $%X (resolves to %s)!\n\n
+;
+MSG_ENGINE_READONCE
+
+; Read-once register %s has been reset to $%X!\n
+;
+MSG_ENGINE_SENSITIVITY
+
+; sensitivity
+;
+MSG_ENGINE_SWAPPED
+
+; swapped
+;
+MSG_ENGINE_TRACECPU
+
+; CPU tracing
+;
+MSG_ENGINE_UNKNOWNCOMMAND
+
+; Unknown command \"%s\" (\"H\" for help).\n\n
+;
+MSG_ENGINE_UNSWAPPED
+
+; unswapped
+;
+MSG_ENGINE_VERYHIGH
+
+; very high
+;
+MSG_ENGINE_VERYLOW
+
+; very low
+;
+MSG_ENGINE_YES
+
+; Yes
+;
+MSG_CPU_HITBP
+
+; Hit code breakpoint at %s! Previous IAR/PC was %s.\n\n
+;
+MSG_CPU_HITWP
+
+; Instruction at $%X (raster %d) is writing $%X to %s!\n\n
+;
+MSG_CPU_ILLEGALWRITE
+
+; Instruction at $%X (raster %d) is attempting to write $%X to unwritable address %s!\n\n
+;
+MSG_CPU_INDETERMINATE
+
+; Instruction at %s executed indeterminate opcode $00 (LODZ r0)!\n\n
+;
+MSG_CPU_STRANGE
+
+; Instruction at $%X executed strange opcode
+;
+MSG_CPU_UNDEFINED
+
+; Instruction at $%X executed undefined opcode $%X!\n\n
+;
+MSG_CPU_WRITEMIRROR
+
+; Instruction at $%X (raster %d) is writing $%X to mirrored address $%X (resolves to %s)!\n\n
+;
+MSG_XVI_REACHEDFRAME
+
+; Reached next frame (%d).\n\n
+;
+MSG_XVI_REACHEDRASTLINEN
+
+; Reached raster line %d.\n\n
+;
+MSG_PVI_HITWP
+
+; PVI is writing $%X to %s at raster %d!\n\n
+;
+MSG_UVI_HITWP
+
+; UVI is writing $%X to %s at raster %d!\n\n
+;
+MSG_CLOCK_LONG
+
+; Clock:
+;
+MSG_FRAME_LONG
+
+; Frame:
+;
+MSG_TIME_LONG
+
+; Time:
+;
+MSG_CLOCK_SHORT
+
+; Clock:
+;
+MSG_FRAME_SHORT
+
+; Frame:
+;
+MSG_TIME_SHORT
+
+; Time:
+;
+MSG_COLOUR_WHITE
+
+; white
+;
+MSG_COLOUR_YELLOW
+
+; yellow
+;
+MSG_COLOUR_PURPLE
+
+; purple
+;
+MSG_COLOUR_RED
+
+; red
+;
+MSG_COLOUR_CYAN
+
+; cyan
+;
+MSG_COLOUR_GREEN
+
+; green
+;
+MSG_COLOUR_BLUE
+
+; blue
+;
+MSG_COLOUR_BLACK
+
+; black
+;
+MSG_NET_ABORTED
+
+; Aborted by user!\n
+;
+MSG_NET_ACTINGASSERVER
+
+; Acting as server at %s on port %d...\n
+;
+MSG_NET_CONNECTINGASCLIENT
+
+; Connecting as client to server at %s on port %d...please wait...\n
+;
+MSG_NET_CLIENTCONNECTED
+
+; Successfully connected as client!\n
+;
+MSG_NET_DISCONNECTED
+
+; Disconnected.\n
+;
+MSG_NET_LISTENING
+
+; Listening...\n
+;
+MSG_NET_NOBLOCKCLIENT
+
+; Can't block client socket!\n
+;
+MSG_NET_NOBLOCKSERVER
+
+; Can't block server socket!\n
+;
+MSG_NET_NOBINDSOCKET
+
+; Can't bind server socket!\n
+;
+MSG_NET_NOCONNECTCLIENT
+
+; Can't connect as client!\n
+;
+MSG_NET_NOCREATECLIENT
+
+; Can't create client socket!\n
+;
+MSG_NET_NOCREATESERVER
+
+; Can't create server socket!\n
+;
+MSG_NET_NOGETHOSTNAME
+
+; Can't get hostname!\n
+;
+MSG_NET_NOLISTEN
+
+; Can't listen!\n
+;
+MSG_NET_NOUNBLOCKSOCKET
+
+; Can't unblock server socket!\n
+;
+MSG_NET_NORESOLVEHOSTNAME
+
+; Can't resolve hostname!
+;
+MSG_NET_SERVERCONNECTED
+
+; The client at %s has successfully connected to your server!\n
+;
+MSG_INVALIDRANGE
+
+; Valid range is $%04X..$%04X!\n\n
+;
+MSG_ADDBP
+
+; Added code breakpoint at %s.\n\n
+;
+MSG_ADDWP
+
+; Added data watchpoint at %s.\n\n
+;
+MSG_ENGINE_LOGMONITOR
+
+; Log BIOS calls
+;
+MSG_CPU_INTERRUPT
+
+; Generated interrupt at rastline %d (clock %d)!\n\n
+;
+MSG_CPU_LOGMONITOR
+
+; BIOS code at %s was called by game code at $%X!\n
+;
+MSG_SERVER
+
+; server
+;
+MSG_CLIENT
+
+; client
+;
+MSG_TOOLTIP_QUICKLOAD
+
+; Quickload state (Amiga-(, Alt-L)
+;
+MSG_TOOLTIP_QUICKSAVE
+
+; Quicksave state (Amiga-), Alt-S)
+;
+MSG_VIEW_BRAM
+
+; BIOS RAM
+;
+MSG_ENGINE_LOGSUBROUTINES
+
+; Log subroutine calls/returns
+;
+MSG_CPU_CALLING
+
+; Calling subroutine %s from $%X...\n\n
+;
+MSG_CPU_RETURNING
+
+; Returning to $%X from subroutine or interrupt at $%X.\n\n
+;
+MSG_CPU_INTERRUPTOVERFLOW
+
+; Interrupt has caused a stack overflow!\n\n
+;
+MSG_CPU_SUBROUTINEOVERFLOW
+
+; Stack overflow at $%X!\n\n
+;
+MSG_CPU_UNDERFLOW
+
+; Stack underflow at $%X!\n\n
+;
+MSG_LOG_MENU
+
+; Log
+;
+MSG_HELP_GAMINGGUIDE
+
+; Gaming Guide...
+;
+MSG_SOUND_ENABLED
+
+; Enabled?
+;
+MSG_SOUND_VOLUME
+
+; Volume...
+;
+MSG_PROJECT_AUDIT
+
+; Audit games...
+;
+MSG_VIEW_SIDEBAR
+
+; Sidebar?
+;
+MSG_VIEW_SORTBY
+
+; Sort sidebar by
+;
+MSG_VIEW_SORTBYNAME
+
+; Game/directory name
+;
+MSG_VIEW_SORTBYMACHINE
+
+; Machine
+;
+MSG_TRACKBALL
+
+; Mouse/trackball
+;
+MSG_1STDJOY
+
+; 1st digital joystick
+;
+MSG_2NDDJOY
+
+; 2nd digital joystick
+;
+MSG_2NDAJOY
+
+; Analog joystick
+;
+MSG_KYBD
+
+; Keyboard
+;
+MSG_PROJECT_SAVEEAP
+
+; Save as SpriteMakerEA project
+;
+MSG_HAIL_SAVEEAP
+
+; Save SpriteMakerEA Project
+;
+MSG_GRAPHICS_GREYSCALE
+
+; Greyscale
+;
+MSG_PROJECT_SAVEEAL
+
+; TextMakerEA project...
+;
+MSG_HAIL_SAVEEAL
+
+; Save TextMakerEA Project
+;
+MSG_MACHINE_PIPBUG
+
+; PIPBUG-based machine
+;
+MSG_ENGINE_UNAVAILABLE
+
+; Command is unavailable.\n\n
+;
+MSG_CONFINE
+
+; Confine pointer?
+;
+MSG_LOG_VERBOSE
+
+; Verbose?
+;
+MSG_ENGINE_CHIN
+
+; Returning from %s with input of '%c' (%d).\n\n
+;
+MSG_SPEED_AUTOPAUSE
+
+; Autopause when inactive?
+;
+MSG_SOUND_SPEECH
+
+; Speech...
+;
+MSG_ENGINE_STEPPINGOVER
+
+; Stepping over subroutine call (%s) at %s.\n
+;
+MSG_LOG_PRINTER
+
+; Echo I/O to printer?
+;
+MSG_DEBUG_USEGUIDEPIXEL
+
+; Use guide pixel?
+;
+MSG_CPU_REACHEDSUBEND
+
+; Reached end of subroutine or interrupt and returned to $%X.\n\n
+;
+MSG_GRAPHICS_UNDITHER
+
+; Artefacts?
+;
+MSG_MACRO_ANIMS
+
+; Generate IFF ANIMs?
+;
+MSG_UVIRAM_GAD
+
+; UVI RAM Contents
+;
+MSG_PVIRAM_GAD
+
+; PVI RAM Contents
+;
+MSG_NOEFFECT
+
+; No effect.\n\n
+;
+MSG_CANCELLED
+
+; Cancelled.\n\n
+;
+MSG_LEFT
+
+; Left
+;
+MSG_RIGHT
+
+; Right
+;
+MSG_ENGINE_CLEAREDBPS
+
+; Cleared all code breakpoints.\n\n
+;
+MSG_ENGINE_CLEAREDWPS
+
+; Cleared all data watchpoints.\n\n
+;
+MSG_BPALREADYSET
+
+; Breakpoint is already set!\n\n
+;
+MSG_WPALREADYSET
+
+; Watchpoint is already set!\n\n
+;
+MSG_NOBPS
+
+; No breakpoints to clear!\n\n
+;
+MSG_NOWPS
+
+; No watchpoints to clear!\n\n
+;
+MSG_ENGINE_BPNOTFOUND
+
+; Breakpoint not found at %s!\n\n
+;
+MSG_ENGINE_WPNOTFOUND
+
+; Watchpoint not found at %s!\n\n
+;
+MSG_FILLED
+
+; Filled $%X..$%X with $%X.\n\n
+;
+MSG_HELP_GAMEINFO
+
+; Game information...
+;
+MSG_INFO_CREDITS
+
+; Credits, Year:
+;
+MSG_KEY_SPACE
+
+; Space
+;
+MSG_KEY_TAB
+
+; Tab
+;
+MSG_KEY_DEL
+
+; Del
+;
+MSG_KEY_UP
+
+; Up
+;
+MSG_KEY_DN
+
+; Dn
+;
+MSG_KEY_RT
+
+; Rt
+;
+MSG_KEY_LT
+
+; Lt
+;
+MSG_KEY_HELP
+
+; Help
+;
+MSG_KEY_LSHFT
+
+; LShft
+;
+MSG_KEY_RSHFT
+
+; RShft
+;
+MSG_KEY_CTRL
+
+; Ctrl
+;
+MSG_KEY_LALT
+
+; LAlt
+;
+MSG_KEY_RALT
+
+; RAlt
+;
+MSG_KEY_LAMI
+
+; LAmi
+;
+MSG_LEFT_MENU
+
+; Left controller
+;
+MSG_RIGHT_MENU
+
+; Right controller
+;
+MSG_RUNNING_TO
+
+; Running to $%X.\n\n
+;
+MSG_MACHINE_INSTRUCTOR
+
+; Signetics Instructor 50
+;
+MSG_HAIL_FRAMESKIP
+
+; Frame Skipping
+;
+MSG_HAIL_SENSITIVITY
+
+; Sensitivity
+;
+MSG_ENGINE_TOOLARGE
+
+; File is too large or corrupt!
+;
+MSG_USAGE_BC
+
+; Usage: BC [<address1> [<address2>]]\n\n
+;
+MSG_USAGE_BP
+
+; Usage: BP <address1> [<address2>] [<addr/reg> <condition> <value>]\n\n
+;
+MSG_USAGE_D
+
+; Usage: D|PEEK <address1> [<address2>]\n\n
+;
+MSG_USAGE_E
+
+; Usage: E|POKE <address> [<value>]\n\n
+;
+MSG_USAGE_F
+
+; Usage: FILL <address1> <address2> <value>]\n\n
+;
+MSG_USAGE_G
+
+; Usage: G|P [<address>]\n\n
+;
+MSG_USAGE_R
+
+; Usage: R F|I|L|R|S|<number>\n\n
+;
+MSG_USAGE_WC
+
+; Usage: WC [<address1> [<address2>]]\n\n
+;
+MSG_USAGE_WP
+
+; Usage: WP <address1> [<address2>] [<addr/reg> <condition> <value>]\n\n
+;
+MSG_WR_ON
+
+; Watch reads on.\n\n
+;
+MSG_WR_OFF
+
+; Watch reads off.\n\n
+;
+MSG_TRANSLATOR
+
+; English translation by James Jacobs
+;
+MSG_PROJECT_SAVEPCX
+
+; PCX...
+;
+MSG_HAIL_SAVEPCX
+
+; Save Screenshot as PCX
+;
+MSG_GRAPHICS_CORNERS
+
+; Fill intersections?
+;
+MSG_GRAPHICS_UNLIT
+
+; Draw unlit LEDs?
+;
+MSG_EDIT_COPY
+
+; Copy screenshot
+;
+MSG_EDIT_COPYTEXT
+
+; Copy text
+;
+MSG_TOOLTIP_COPY
+
+; Copy screenshot (Amiga-C)
+;
+MSG_NOT_IN_SUBROUTINE
+
+; Not currently inside a subroutine.\n\n
+;
+MSG_USAGE_LOAD
+
+; Usage: LOAD <address> <filename>\n\n
+;
+MSG_USAGE_SAVE
+
+; Usage: SAVE <address1> <address2> <filename>\n\n
+;
+MSG_ENGINE_TOOLARGE2
+
+; File is too large!\n\n
+;
+MSG_FAILED
+
+; Failed!\n\n
+;
+MSG_MACHINE_LOWERCASE
+
+; Allow lowercase input?
+;
+MSG_EDIT_PALETTE
+
+; Palette editor...
+;
+MSG_HAIL_PALETTE
+
+; Palette Editor
+;
+MSG_COLOUR2_WHITE
+
+; White
+;
+MSG_COLOUR2_YELLOW
+
+; Yellow
+;
+MSG_COLOUR2_LPURPLE
+
+; Bright Purple
+;
+MSG_COLOUR2_LRED
+
+; Bright Red
+;
+MSG_COLOUR2_LCYAN
+
+; Bright Cyan
+;
+MSG_COLOUR2_LGREEN
+
+; Bright Green
+;
+MSG_COLOUR2_LBLUE
+
+; Bright Blue
+;
+MSG_COLOUR2_BLACK1
+
+; Black #1
+;
+MSG_COLOUR2_GREY
+
+; Grey #1
+;
+MSG_COLOUR2_BROWN
+
+; Brown
+;
+MSG_COLOUR2_DPURPLE
+
+; Dark Purple
+;
+MSG_COLOUR2_DRED
+
+; Dark Red
+;
+MSG_COLOUR2_DCYAN
+
+; Dark Cyan
+;
+MSG_COLOUR2_DGREEN
+
+; Dark Green
+;
+MSG_COLOUR2_DBLUE
+
+; Dark Blue
+;
+MSG_COLOUR2_BLACK2
+
+; Black #2
+;
+MSG_DESC
+
+; An emulator of Signetics-based machines
+;
+MSG_LOG_CONSOLE
+
+; Echo I/O to console?
+;
+MSG_CPU_REACHEDLOOPEND
+
+; Reached end of loop at %s.\n\n
+;
+MSG_USAGE_EQUALS
+
+; Usage: = <address>\n\n
+;
+MSG_ENGINE_GENERATED
+
+; Generated user-requested interrupt.\n\n
+;
+MSG_ENGINE_SUPPRESSED
+
+; Suppressed user-requested interrupt.\n\n
+;
+MSG_MACHINE_CD2650
+
+; Central Data 2650
+;
+MSG_VIEW_TOOLBAR
+
+; Toolbar?
+;
+MSG_EDIT_PASTETEXT
+
+; Paste text
+;
+MSG_1STDPAD
+
+; 1st digital gamepad
+;
+MSG_2NDDPAD
+
+; 2nd digital gamepad
+;
+MSG_GRAPHICS_SCREENMODE
+
+; Screenmode...
+;
+MSG_HAIL_SCREENMODE
+
+; Choose Screenmode
+;
+MSG_PROCESSNUMBER
+
+; Process number:
+;
+MSG_AUDITRESULTS
+
+; Audit Results
+;
+MSG_AUDITTEXT
+
+; In directory \"%s\":\n\n%d dump(s) found.\n%d state(s)/recording(s) found.\n%d AOF(s) found.\n%d EAP(s) found.\n%d icon(s) found.\n%d directory/ies found.\n%d unknown file(s) found.\n
+;
+MSG_SWITCH1
+
+; 1 (normal play)
+;
+MSG_SWITCH4
+
+; 4 (change settings)
+;
+MSG_SOUND_RETUNE
+
+; Retune tones?
+;
+MSG_GRAPHICS_SHADOWS
+
+; Shadows?
+;
+MSG_EDIT_DIPS
+
+; DIP switch editor...
+;
+MSG_SWITCH
+
+; Test Switch (F4)
+;
+MSG_HAIL_M_DIPS
+
+; Malzak 2 DIP Switches
+;
+MSG_HAIL_G_DIPS
+
+; Zaccaria DIP Switches
+;
+MSG_LIVES
+
+; Lives
+;
+MSG_FREEZE
+
+; _Freeze?
+;
+MSG_COIN_A
+
+; Coin A
+;
+MSG_COIN_B
+
+; Coin B
+;
+MSG_GRAPHICS_GREENSCREEN
+
+; Green on black?
+;
+MSG_GRAPHICS_INVERSE
+
+; Inverse video?
+;
+MSG_GRAPHICS_RASTLINES
+
+; Scanlines?
+;
+MSG_GRAPHICS_SCALE2X
+
+; Scale2x/3x/4x
+;
+MSG_HAIL_S_DIPS
+
+; Signetics Instructor 50 DIP Switches
+;
+MSG_GRAPHICS_4XSIZE
+
+; 4� size (Ctrl-F4)
+;
+MSG_PROJECT_SAVESCRN
+
+; Save screenshot as
+;
+MSG_VIEW_HISCORES
+
+; High score table...
+;
+MSG_HAIL_HISCORES
+
+; Emerson Arcadia 2001 High Scores
+;
+MSG_PVI1_GAD
+
+; 2636 PVI #1 Status
+;
+MSG_PVI2_GAD
+
+; 2636 PVI #2 Status
+;
+MSG_PVI3_GAD
+
+; 2636 PVI #3 Status
+;
+MSG_OTHERS
+
+; Other Registers
+;
+MSG_USAGE_FIND
+
+; Usage: FIND [[<address1> <address2>] <value>]\n\n
+;
+MSG_HELP_CODINGGUIDE
+
+; Coding Guide...
+;
+MSG_EMPTY
+
+; (Empty)
+;
+MSG_HAIL_ABOUT2
+
+; About WinArcadia
+;
+MSG_HAIL_VOLUME
+
+; Volume
+;
+MSG_HAIL_REGISTERFILETYPES
+
+; Register Filetypes
+;
+MSG_HAIL_REDEFINEKEY
+
+; Redefine Key
+;
+MSG_SYSTEM_INFORMATION
+
+; System information...
+;
+MSG_LOG_LOGTOFILE
+
+; Log output to RAM:AmiArcadia.log?
+;
+MSG_OK2
+
+; &OK
+;
+MSG_CANCEL2
+
+; &Cancel
+;
+MSG_LOW
+
+; Low
+;
+MSG_HIGH
+
+; High
+;
+MSG_SILENT
+
+; Silent
+;
+MSG_LOUD
+
+; Loud
+;
+MSG_LEFTCONTROLLER
+
+; Left Controller
+;
+MSG_RIGHTCONTROLLER
+
+; Right Controller
+;
+MSG_LABEL_RED
+
+; Red
+;
+MSG_LABEL_GREEN
+
+; Green
+;
+MSG_LABEL_BLUE
+
+; Blue
+;
+MSG_CREDIT
+
+; credit
+;
+MSG_CREDITS
+
+; credits
+;
+MSG_FREEZE2
+
+; Freeze?
+;
+MSG_WRITEBASE
+
+; Set default input base to
+;
+MSG_READBASE
+
+; Current default input base is
+;
+MSG_DECIMAL
+
+; decimal
+;
+MSG_HEXADECIMAL
+
+; hexadecimal
+;
+MSG_BINARY
+
+; binary
+;
+MSG_READMIRROR
+
+; Read mirror of %s.
+;
+MSG_WRITEMIRROR
+
+; Write mirror of %s.
+;
+MSG_ENGINE_LOGIOPORTS
+
+; Log I/O port accesses
+;
+MSG_HAIL_MEMORY
+
+; Memory Editor
+;
+MSG_VIEW_MEMORY
+
+; Memory editor...
+;
+MSG_REGION
+
+; Region: $
+;
+MSG_HAIL_SAVECOS
+
+; Save State
+;
+MSG_HAIL_SAVECOR
+
+; Start Recording
+;
+MSG_ERROR_CANTLOAD
+
+; Can't load
+;
+MSG_LEGEND1
+
+; Breakpoint
+;
+MSG_LEGEND2
+
+; Mirror
+;
+MSG_LEGEND3
+
+; Unmapped
+;
+MSG_LEGEND4
+
+; Write-only
+;
+MSG_LEGEND5
+
+; Read-only
+;
+MSG_LEGEND6
+
+; Read/write
+;
+MSG_1STBUTTON
+
+; 1st button
+;
+MSG_2NDBUTTON
+
+; 2nd button
+;
+MSG_3RDBUTTON
+
+; 3rd button
+;
+MSG_4THBUTTON
+
+; 4th button
+;
+MSG_ERROR_AUDIO
+
+; Can't open ahi.device V4+!\nPossible causes:\n* Channels already in use\n* AHI V4+ not installed
+;
+MSG_PRIORITY
+
+; Priority:
+;
+MSG_PROJECT_SAVESPRITES
+
+; Sprites...
+;
+MSG_PROJECT_SAVEUDCS
+
+; UDCs...
+;
+MSG_USAGE_TRAIN
+
+; Usage: TRAIN [<value>]\n\n
+;
+MSG_INFO_REFERENCE
+
+; Reference:
+;
+MSG_OSVERSION
+
+; Running on:
+;
+MSG_SETTINGS_CONFIRM
+
+; Confirm on quit?
+;
+MSG_CONFIRM
+
+; Really quit?
+;
+MSG_HAIL_REARRANGE
+
+; Rearrange Gamepad Buttons
+;
+MSG_GRAPHICS_ROTATE
+
+; Rotate screen?
+;
+MSG_INPUT_FORCEFEEDBACK
+
+; Force feedback?
+;
+MSG_TOOLTIP_MACRO
+
+; Start recording (Amiga-{)
+;
+MSG_1STAPAD
+
+; 1st analog gamepad
+;
+MSG_2NDAPAD
+
+; 2nd analog gamepad
+;
+MSG_COMPILEDFOR
+
+; Compiled for:
+;
+MSG_ENGINE_VERBOSETRACING
+
+; Verbose tracing
+;
+MSG_LOG_PAUSE
+
+; Pause after logging?
+;
+MSG_PL_ON
+
+; Pause after logging is now on.\n\n
+;
+MSG_PL_OFF
+
+; Pause after logging is now off.\n\n
+;
+MSG_REASSOCIATE
+
+; Reassociate these automatically at startup?
+;
+MSG_CHANGE_DIP
+
+; Change DIP switch
+;
+MSG_HAIL_COINOPHISCORES
+
+; Coin-Op High Scores
+;
+MSG_COINOP
+
+; Coin-op
+;
+MSG_LOGOPENED
+
+; Opened %s for appending at %s.\n\n
+;
+MSG_LOGCLOSED
+
+; Closed %s at %s.\n\n
+;
+MSG_HANDLEDWRITE
+
+; Handled write of $%02X (%s) to %s at address %s!\n\n
+;
+MSG_UNHANDLEDWRITE
+
+; Unhandled write of $%02X (%s) to %s at address %s!\n\n
+;
+MSG_HANDLEDREAD
+
+; Handled read of $%02X (%s) from %s at address %s!\n\n
+;
+MSG_UNHANDLEDREAD
+
+; Unhandled read of $%02X (%s) from %s at address %s!\n\n
+;
+MSG_IOCONTROLPORT
+
+; I/O control port
+;
+MSG_IODATAPORT
+
+; I/O data port
+;
+MSG_IOEXTENDEDPORT
+
+; extended I/O port $%02X
+;
+MSG_PORTER
+
+; %s port compiled by %s
+;
+MSG_USAGE_READPORT
+
+; Usage: READPORT <port>|C|D\n\n
+;
+MSG_USAGE_WRITEPORT
+
+; Usage: WRITEPORT <port>|C|D <value>\n\n
+;
+MSG_HAIL_SPRITEVIEWER
+
+; Sprite Editor
+;
+MSG_SPRITE
+
+; Sprite:
+;
+MSG_SPRITEIMAGERY
+
+; Sprite Imagery
+;
+MSG_TOOLS_SPRITEVIEWER
+
+; Sprite editor...
+;
+MSG_ROOT
+
+; root
+;
+MSG_PARENT
+
+; parent
+;
+MSG_MISCELLANEOUS
+
+; Miscellaneous
+;
+MSG_MACHINECODE
+
+; Machine code
+;
+MSG_USAGE_SAVEAOF
+
+; Usage: SAVEAOF|SAVEEOF <address1> <address2> <filename> [<startaddress>]\n\n
+;
+MSG_INFO_COMPLANG
+
+; Language:
+;
+MSG_COLOUR2_GREY2
+
+; Grey #2
+;
+MSG_COLOUR2_GREY3
+
+; Grey #3
+;
+MSG_COLOUR2_GREY4
+
+; Grey #4
+;
+MSG_COLOUR2_GREY5
+
+; Grey #5
+;
+MSG_COLOUR2_GREY6
+
+; Grey #6
+;
+MSG_COLOUR2_GREY7
+
+; Grey #7
+;
+MSG_COLOUR2_ORANGE
+
+; Orange
+;
+MSG_COLOUR2_PINK
+
+; Pink
+;
+MSG_GRAPHICS_DOTSPACE
+
+; Show spaces as dots?
+;
+MSG_GRAPHICS_AMBERSCREEN
+
+; Amber on black
+;
+MSG_GRAPHICS_WHITESCREEN
+
+; White on black
+;
+MSG_LOG_NOTATION
+
+; Notation
+;
+MSG_OCTAL
+
+; octal
+;
+MSG_VIEW_VIEWSPEEDAS
+
+; View speed as
+;
+MSG_VIEW_FRAMESPERSECOND
+
+; Frames per second
+;
+MSG_VIEW_PERCENTAGE
+
+; Percentage
+;
+MSG_SPD_GAD
+
+; Speed:
+;
+MSG_LEGEND7
+
+; Watchpoint
+;
+MSG_READTAPE
+
+; Read $%02X (%s) from tape position %d (%f seconds).\n
+;
+MSG_WROTETAPE
+
+; Wrote $%02X (%s) to tape position %d (%f seconds).\n
+;
+MSG_HAIL_SKEWING
+
+; Skewing
+;
+MSG_ENGINE_LOGINEFFICIENT
+
+; Log inefficient code
+;
+MSG_HAIL_OPCODES
+
+; Opcodes
+;
+MSG_CPU_REPLACE
+
+; Replace %s with %s at %s.\n\n
+;
+MSG_LEGEND8
+
+; Arithmetic, transfer
+;
+MSG_LEGEND9
+
+; I/O, PSW, mixed
+;
+MSG_LEGEND10
+
+; Branch
+;
+MSG_LEGEND11
+
+; Special
+;
+MSG_LEGEND12
+
+; Illegal
+;
+MSG_USAGE_DOKE
+
+; Usage: DOKE <address> [<value>]\n\n
+;
+MSG_ENGINE_DOKECHANGED
+
+; Changed contents of %s..$%04X from $%04X to $%04X.\n\n
+;
+MSG_SPEED_ADJUST
+
+; Adjust...
+;
+MSG_TURBO
+
+; turbo
+;
+MSG_OPCODETOOLTIP
+
+; %s\nOpcode: $%02X\nName: %s\nPseudocode: %s\nSize: %d byte(s)\nDuration: %d cycles%s\nFlags read: %s\nFlags written: %s\nCategory: %s
+;
+MSG_COMPILEDWITH
+
+; Compiled with:
+;
+MSG_ANGLES
+
+; Angles
+;
+MSG_BATSIZE
+
+; Bat size (F4)
+;
+MSG_SERVING
+
+; Serving
+;
+MSG_GAME
+
+; Game (F2)
+;
+MSG_BATSIZE_SHORT
+
+; Short
+;
+MSG_BATSIZE_TALL
+
+; Tall
+;
+MSG_PONGSPEED_SLOW
+
+; Slow
+;
+MSG_PONGSPEED_FAST
+
+; Fast
+;
+MSG_SERVING_MANUAL
+
+; Manual
+;
+MSG_SERVING_AUTO
+
+; Automatic
+;
+MSG_VARIANT_TENNIS
+
+; Tennis
+;
+MSG_VARIANT_SOCCER
+
+; Soccer/Hockey
+;
+MSG_VARIANT_HANDICAP
+
+; Handicap
+;
+MSG_VARIANT_SQUASH
+
+; Squash/Handball
+;
+MSG_VARIANT_PRACTICE
+
+; Practice
+;
+MSG_CONSOLE_PONG_A
+
+; Game (F2)
+;
+MSG_CONSOLE_PONG_B
+
+; Serve (F3)
+;
+MSG_CONSOLE_PONG_RESET
+
+; Bat size (F4)
+;
+MSG_HAIL_PONG_DIPS
+
+; AY-3-8550 DIP Switches
+;
+MSG_LOCKHORIZAXIS
+
+; Lock horizontal axis?
+;
+MSG_HELP_OPCODES
+
+; Opcodes...
+;
+MSG_HAIL_PONGHISCORES
+
+; Pong High Scores
+;
+MSG_VARIANT_RIFLE1
+
+; Rifle #1
+;
+MSG_VARIANT_RIFLE2
+
+; Rifle #2
+;
+MSG_INPUT_SHOWPOSITIONS
+
+; Show controller positions?
+;
+MSG_OVERLAYTIP1
+
+; Overlay: %s\nGuest key: %s\nHost key: %s
+;
+MSG_OVERLAYTIP2
+
+; Overlay: %s\nGuest key: %s\nHost keys: %s, %s
+;
+MSG_OVERLAYTIP3
+
+; Guest key: %s\n\nLeft player:\nOverlay: %s\nHost keys: %s, %s\n\nRight player:\nOverlay: %s\nHost keys: %s, %s
+;
+MSG_HOVER
+
+; Hover over a button for more information.
+;
+MSG_OPCODE
+
+; Opcode:
+;
+MSG_PADDLES
+
+; Paddles
+;
+MSG_BOARDMODE
+
+; Board mode:
+;
+MSG_BLOCKMODE
+
+; Block mode:
+;
+MSG_PITCH
+
+; Pitch:
+;
+MSG_HORIZSCROLLING
+
+; Horizontal scrolling:
+;
+MSG_PIXELS
+
+; pixels
+;
+MSG_TONE
+
+; Tone:
+;
+MSG_NOISE
+
+; Noise:
+;
+MSG_VOLUME
+
+; Volume:
+;
+MSG_OF
+
+; of
+;
+MSG_CHARROWS
+
+; Character rows:
+;
+MSG_VERTRES
+
+; Vertical resolution:
+;
+MSG_PADDLEINT
+
+; Paddle interpolation:
+;
+MSG_XAXIS
+
+; X-axis
+;
+MSG_YAXIS
+
+; Y-axis
+;
+MSG_COLOURS
+
+; Colours:
+;
+MSG_FOREGROUND
+
+; Foreground:
+;
+MSG_INNERBG
+
+; Inner background:
+;
+MSG_OUTERBG
+
+; Outer background:
+;
+MSG_COLLISIONS
+
+; Collisions:
+;
+MSG_SPRVSBG
+
+; Sprites vs. background:
+;
+MSG_NOISEPITCH
+
+; Noise pitch:
+;
+MSG_SCOREFORMAT
+
+; Score format:
+;
+MSG_GROUPSOF
+
+; group(s) of
+;
+MSG_DIGITS
+
+; digits
+;
+MSG_SCOREPOS
+
+; Score position:
+;
+MSG_TOPPOS
+
+; top of screen
+;
+MSG_BOTTOMPOS
+
+; bottom of screen
+;
+MSG_GRIDBG
+
+; Grid/background:
+;
+MSG_GRIDCOLOUR
+
+; Grid:
+;
+MSG_BGCOLOUR
+
+; Background:
+;
+MSG_ENABLED
+
+; enabled
+;
+MSG_DISABLED
+
+; disabled
+;
+MSG_ENGINE_YES2
+
+; yes
+;
+MSG_ENGINE_NO2
+
+; no
+;
+MSG_VERSUS
+
+; vs.
+;
+MSG_SPRITE2
+
+; Sprite
+;
+MSG_PARALLELIO
+
+; Parallel I/O
+;
+MSG_MEMORYIO
+
+; Memory $0FFF
+;
+MSG_EXTENDEDIO
+
+; Extended I/O Port $07
+;
+MSG_NONEXTENDEDIO
+
+; Non-Extended Data Port
+;
+MSG_INTERRUPTS
+
+; Interrupts
+;
+MSG_DIRECT
+
+; Direct
+;
+MSG_INDIRECT
+
+; Indirect
+;
+MSG_INTERRUPTSEL
+
+; Interrupt Selector
+;
+MSG_ACLINE
+
+; A.C. Line
+;
+MSG_KEYBOARD
+
+; Keyboard
+;
+MSG_SPRITENUMBER
+
+; Sprite #%d
+;
+MSG_CHARPDCNUMBER
+
+; Character PDC #%d
+;
+MSG_BLOCKPDCNUMBER
+
+; Block PDC #%d
+;
+MSG_UDCNUMBER
+
+; UDC #%d
+;
+MSG_NUMBER
+
+; #%d
+;
+MSG_TONEPITCH
+
+; Tone %s pitch:
+;
+MSG_NOISESPITCH
+
+; Noises pitch:
+;
+MSG_TONECHANNELS
+
+; Tone channels:
+;
+MSG_NOISECHANNELS
+
+; Noise channels:
+;
+MSG_IOPORTS
+
+; I/O ports:
+;
+MSG_CHANNELVOLS
+
+; Channel volumes:
+;
+MSG_AMPLITUDEMODES
+
+; Amplitude modes:
+;
+MSG_ENVELOPE
+
+; Envelope:
+;
+MSG_PERIOD
+
+; Period:
+;
+MSG_SHAPE
+
+; Shape:
+;
+MSG_HOLD
+
+; Hold:
+;
+MSG_ALTERNATE
+
+; Alternate:
+;
+MSG_ATTACK
+
+; Attack:
+;
+MSG_CONTINUE
+
+; Continue:
+;
+MSG_AMPMODE_ENVELOPE
+
+; envlpe
+;
+MSG_AMPMODE_NORMAL
+
+; normal
+;
+MSG_OUTPUT
+
+; output
+;
+MSG_DISABLED2
+
+; disbld
+;
+MSG_ENGINE_OFF3
+
+; off
+;
+MSG_ENGINE_ON3
+
+; on
+;
+MSG_WA_CONSOLE
+
+; WinArcadia Output
+;
+MSG_HERTZ
+
+; Hz
+;
+MSG_VIEW_STATUSBAR
+
+; Status bar?
+;
+MSG_CAPSLOCK
+
+; CAPS
+;
+MSG_TURBO2
+
+; Turbo
+;
+MSG_MACRO_PSG
+
+; Generate PSG files?
+;
+MSG_MACRO_YM
+
+; Generate YM files?
+;
+MSG_VIEW_KHZ
+
+; kHz
+;
+MSG_KHZ_GAD
+
+; kHz:
+;
+MSG_BRIGHTNESS
+
+; Brightness:
+;
+MSG_HAIL_MONITOR
+
+; Real-Time CPU Monitor
+;
+MSG_INFINITE
+
+; Infinite
+;
+MSG_DETECTCOLL
+
+; Detect collisions?
+;
+MSG_USAGE_IM
+
+; Usage: IM [<address1> <address2>]\n\n
+;
+MSG_INPUT_AUTOCOIN
+
+; Insert coins automatically?
+;
+MSG_VIEWAS
+
+; View as
+;
+MSG_HEXADECIMAL2
+
+; Hexadecimal
+;
+MSG_CHARACTERS
+
+; Characters
+;
+MSG_ERRORCODE
+
+; error code
+;
+MSG_SOUND_TELETYPE
+
+; Ambient sounds?
+;
+MSG_LEGEND
+
+; Legend
+;
+MSG_WRAPPED
+
+; IAR has wrapped after instruction at %s (cycle %ud)!\n\n
+;
+MSG_USAGE_REL
+
+; Usage: REL <source-addr> [*]<target-addr>\n\n
+;
+MSG_ENGINE_OBSOLETE
+
+; This is an obsolete version.
+;
+MSG_INSTRUCTIONS
+
+; Instructions
+;
+MSG_INSTRUCTIONS2
+
+; Instructions...
+;
+MSG_WHEN
+
+; when
+;
+MSG_ADDBPCOND
+
+; Added code breakpoint at %s when %s %s %s.\n\n
+;
+MSG_ADDWPCOND
+
+; Added data watchpoint at %s when %s %s %s.\n\n
+;
+MSG_SHOWPALLADIUMKEYS
+
+; Show Palladium keys?
+;
+MSG_HAIL_POSITION
+
+; Position
+;
+MSG_HELP_HOSTKYBD
+
+; Host keyboard...
+;
+MSG_HAIL_HOSTKYBD
+
+; Host Keyboard
+;
+MSG_GUESTKEYS
+
+; Guest keys
+;
+MSG_HOSTKEYS
+
+; Host keys
+;
+MSG_OVERLAYS
+
+; Overlays
+;
+MSG_1STPAD
+
+; &1st gamepad
+;
+MSG_2NDPAD
+
+; &2nd gamepad
+;
+MSG_KYBDLEGEND_1
+
+; Left player
+;
+MSG_KYBDLEGEND_2
+
+; Right player
+;
+MSG_KYBDLEGEND_3
+
+; Console
+;
+MSG_KYBDLEGEND_4
+
+; Reserved
+;
+MSG_KYBDLEGEND_5
+
+; Unused
+;
+MSG_KYBDLEGEND_6
+
+; Multiple
+;
+MSG_HELP_HOSTPADS
+
+; Host gamepads/mouse...
+;
+MSG_HAIL_HOSTPADS
+
+; Host Gamepads/Mouse
+;
+MSG_1STPAD2
+
+; 1st gamepad
+;
+MSG_2NDPAD2
+
+; 2nd gamepad
+;
+MSG_ABSOLUTE
+
+; Absolute
+;
+MSG_IMMEDIATE
+
+; Immediate
+;
+MSG_IMPLICIT
+
+; Implicit
+;
+MSG_REGISTER
+
+; Register
+;
+MSG_RELATIVE
+
+; Relative
+;
+MSG_START
+
+; START
+;
+MSG_P1
+
+; P1
+;
+MSG_P2
+
+; P2
+;
+MSG_SELECT
+
+; SELECT
+;
+MSG_SENS
+
+; SENS
+;
+MSG_RESET
+
+; RESET
+;
+MSG_RST
+
+; RST
+;
+MSG_GAME2
+
+; Game
+;
+MSG_SERVE2
+
+; Serve
+;
+MSG_BATSIZE2
+
+; Bat size
+;
+MSG_SWITCH2
+
+; Test switch
+;
+MSG_MOUSE
+
+; Mouse
+;
+MSG_EMUID_MENU
+
+; Identify emulator?
+;
+MSG_USAGE_LOADSYM
+
+; Usage: LOADSYM [<filename>]\n\n
+;
+MSG_COLOURS_MENU
+
+; Colours
+;
+MSG_EMULATOR_MENU
+
+; Emulator
+;
+MSG_VIEW_CONTENTSOF
+
+; Contents of
+;
+MSG_VIEW_STATUSOF
+
+; Status of
+;
+MSG_PROJECT_SAVEAS
+
+; Save as
+;
+MSG_MEMMAP
+
+; Memory map
+;
+MSG_LOADING
+
+; Loading...
+;
+MSG_ALLOCAUDIOFAILED
+
+; Can't allocate AHI audio!
+;
+MSG_NEXTINSTRUCTION
+
+; Next instruction is %s at %s.\n\n
+;
+MSG_VIEW_MONITOR_PSGS
+
+; PSGs monitor...
+;
+MSG_VIEW_MONITOR_XVI
+
+; UVI/PVI(s) monitor...
+;
+MSG_HAIL_MONITOR_PSGS
+
+; Real-Time PSGs Monitor
+;
+MSG_HAIL_MONITOR_XVI
+
+; Real-Time UVI/PVI(s) Monitor
+;
+MSG_DESKTOP
+
+; Desktop
+;
+MSG_LAPTOP
+
+; Netbook
+;
+MSG_VIEW_BUILTIN
+
+; Built-in games?
+;
+MSG_TOOLTIP_PLAY
+
+; Restart playback
+;
+MSG_TOOLTIP_STOP
+
+; Stop recording/playback (Amiga-})
+;
+MSG_OTHERAMIGA
+
+; Other Amiga
+;
+MSG_HAIL_8600_DIPS
+
+; AY-3-8600 DIP Switches
+;
+MSG_VARIANT_HOCKEY
+
+; Hockey
+;
+MSG_VARIANT_SOCCER2
+
+; Soccer
+;
+MSG_VARIANT_SQUASH2
+
+; Squash
+;
+MSG_VARIANT_GRIDBALL
+
+; Gridball
+;
+MSG_VARIANT_BASKETBALL
+
+; Basketball
+;
+MSG_VARIANT_BBPRACTICE
+
+; Basketball Practice
+;
+MSG_VARIANT_TARGET1
+
+; 1-Player Target
+;
+MSG_VARIANT_TARGET2
+
+; 2-Player Target
+;
+MSG_CPU_REPLACE2
+
+; Replace %s and %s with %s at %s.\n\n
+;
+MSG_RECORDING
+
+; recording
+;
+MSG_PLAYBACK
+
+; playback
+;
+MSG_USAGE_ASM
+
+; Usage: ASM <filename>\n\n
+;
+MSG_LISTENING
+
+; listening
+;
+MSG_BADFORMAT
+
+; This file format is not supported for this guest!
+;
+MSG_LARGEIMAGE
+
+; Large image?
+;
+MSG_EDIT_EMPTYCLIPBOARD
+
+; Empty clipboard
+;
+MSG_CLIPUNIT
+
+; Clipboard unit:
+;
+MSG_USAGE_COPY
+
+; Usage: COPY|MOVE <source-start> <source-end> <target-start>\n\n
+;
+MSG_USAGE_SWAP
+
+; Usage: SWAP <1st-start> <1st-end> <2nd-start>\n\n
+;
+MSG_CONTENTS
+
+; Contents
+;
+MSG_USAGE_SAVESYM
+
+; Usage: SAVESYM <filename>\n\n
+;
+MSG_USAGE_CLEARSYM
+
+; Usage: CLEARSYM [<label>]\n\n
+;
+MSG_USAGE_DEFSYM
+
+; Usage: DEFSYM <label> <address>\n\n
+;
+MSG_PROJECT_REINITIALIZE
+
+; Reinitialize machine
+;
+MSG_SETTINGS_USESTUBS
+
+; Use stub programs?
+;
+MSG_USAGE_ED
+
+; Usage: ED|EDIT <filename>\n\n
+;
+MSG_VIEW_BASIC
+
+; 8K BASIC variables
+;
+MSG_USAGE_CO
+
+; Usage: CO <1st-start> <1st-end> <2nd-start>\n\n
+;
+MSG_ENGINE_PAUSING
+
+; Pausing...\n\n
+;
+MSG_TOOLS_DEBUGGER
+
+; Debugger (Shift-Tab)
+;
+MSG_QWERTYTOOLTIP
+
+; Unshifted: %s\nCaps Lock: %s\nShifted: %s\nCtrl: %s\nCtrl+Shift: %s
+;
+MSG_CALIBGRID
+
+; Calibration grid?
+;
+MSG_RAPIDFIRE
+
+; Rapid fire?
+;
+MSG_HAIL_TYPERIGHTHISCORES
+
+; Type-right High Scores
+;
+MSG_RATE
+
+; Rate:
+;
+MSG_WORDSPERMINUTE
+
+; wpm
+;
+MSG_HAIL_ADJUSTSPEECH
+
+; Adjust Speech
+;
+MSG_MALE
+
+; Male
+;
+MSG_FEMALE
+
+; Female
+;
+MSG_NATURAL
+
+; Natural
+;
+MSG_ROBOTIC
+
+; Robotic
+;
+MSG_TRAINERS_MENU
+
+; Trainers
+;
+MSG_TRAINERS_LIVES
+
+; Infinite lives?
+;
+MSG_TRAINERS_TIME
+
+; Infinite time/ammo?
+;
+MSG_TRAINERS_INVINCIBILITY
+
+; Invincibility?
+;
+MSG_GRAPHICS_5XSIZE
+
+; 5� size (Ctrl-F5)
+;
+MSG_GRAPHICS_6XSIZE
+
+; 6� size (Ctrl-F6)
+;
+MSG_BIOS_PIPBUGTURBO
+
+; PIPBUG (turbo)
+;
+MSG_MACHINE_BINBUG
+
+; BINBUG-based machine
+;
+MSG_EMULATOR_POST
+
+; Power-on self-test?
+;
+MSG_COVERAGE
+
+; Coverage report
+;
+MSG_INPUT_GUEST
+
+; Guest keyboard layout
+;
+MSG_INPUT_HOST
+
+; Host keyboard layout
+;
+MSG_HELP_UPDATE
+
+; Check for updates...
+;
+MSG_UPDATE_YES
+
+; is available
+;
+MSG_UPDATE_NO
+
+; You are up to date.
+;
+MSG_KYBDLEGEND_7
+
+; Pressed
+;
+MSG_HAIL_MESSAGE
+
+; Message
+;
+MSG_HELP_REACTION
+
+; About ReAction...
+;
+MSG_HAIL_REACTION
+
+; About ReAction
+;
+MSG_REACTIONGUI
+
+; ReAction GUI
+;
+MSG_PROJECT_SAVEGIF
+
+; GIF...
+;
+MSG_HAIL_SAVEGIF
+
+; Save Screenshot as GIF
+;
+MSG_TOOLTIP_SIDEBAR
+
+; Click on a game to load it.
+;
+MSG_MACRO_GIFANIMS
+
+; Generate GIF animations?
+;
+MSG_LOG_REPLACE
+
+; Replace old logfile?
+;
+MSG_LOGREPLACED
+
+; Opened %s for writing at %s.\n\n
+;
+MSG_FILTERS_MENU
+
+; Filters
+;
+MSG_FILTERS_NOEFFECT
+
+; None
+;
+MSG_OK3
+
+; _OK
+;
+MSG_RESETTODEFAULTS2
+
+; &Reset to defaults
+;
+MSG_CANCEL3
+
+; Cancel
+;
+MSG_TRAINERS_LEVELSKIP
+
+; Skip level
+;
+MSG_SPEED_LIMIT
+
+; Limit refresh rate?
+;
+MSG_SETTINGS_STARTUPUPDATES
+
+; Check for updates at startup?
+;
+MSG_HAIL_SAVETIFF
+
+; Save Screenshot as TIFF
+;
+MSG_HAIL_SAVEPNG
+
+; Save Screenshot as PNG
+;
+MSG_MHZ
+
+; MHz
+;
+MSG_HAIL_BINBUGROMS
+
+; BINBUG ROMs
+;
+MSG_HAIL_CLOCKSPEED
+
+; Clock Speed
+;
+MSG_MACRO_REPEATAREXX
+
+; Repeat last script
+;
+MSG_CLOSE_SUBWINDOW
+
+; (close subwindow)
+;
+MSG_GRAPHICS_BLANKINGAREAS
+
+; Blanking areas?
+;
+MSG_GRAPHICS_DEJITTER
+
+; Dejitter horizons?
+;
+MSG_CLEARHISCORES
+
+; Clear high scores
+;
+MSG_MACRO_PNGANIMS
+
+; Generate PNG animations?
+;
+MSG_MACRO_MNGANIMS
+
+; Generate MNG animations?
+;
+MSG_TOOLS_MUSIC
+
+; Musical keyboard...
+;
+MSG_HAIL_MUSIC
+
+; Musical Keyboard
+;
+MSG_COLOUR
+
+; Colour:
+;
+MSG_MIDDLE
+
+; Middle
+;
+MSG_START2
+
+; Start
+;
+MSG_FORWARD
+
+; Forward
+;
+MSG_REVERSE
+
+; Reverse
+;
+MSG_MACRO_8SVX
+
+; Generate IFF 8SVX files?
+;
+MSG_MACRO_AIFF
+
+; Generate IFF AIFF (Audio IFF) files?
+;
+MSG_MACRO_WAV
+
+; Generate WAV files?
+;
+MSG_INPUT_SPRINGLOADED
+
+; Spring-loaded paddles?
+;
+MSG_USAGE_JUMP
+
+; Usage: J|JUMP <address>\n\n
+;
+MSG_TOOLS_TAPEDECK
+
+; Tape deck...
+;
+MSG_HAIL_TAPEDECK
+
+; Tape Deck
+;
+MSG_KEY_RWND_SHORT
+
+; Rew.
+;
+MSG_KEY_RWND_LONG
+
+; Rewind
+;
+MSG_KEY_STOP_SHORT
+
+; Stop
+;
+MSG_KEY_STOP_LONG
+
+; Stop
+;
+MSG_KEY_REC_SHORT
+
+; Rec.
+;
+MSG_KEY_REC_LONG
+
+; Record
+;
+MSG_KEY_PLAY_SHORT
+
+; Play
+;
+MSG_KEY_PLAY_LONG
+
+; Play
+;
+MSG_KEY_FFWD_SHORT
+
+; FFwd
+;
+MSG_KEY_FFWD_LONG
+
+; Fast Forward
+;
+MSG_KEY_EJECT_SHORT
+
+; Eject
+;
+MSG_KEY_EJECT_LONG
+
+; Eject
+;
+MSG_CREATE8SVX
+
+; Create IFF 8SVX tape...
+;
+MSG_HAIL_CREATE8SVX
+
+; Create IFF 8SVX Tape
+;
+MSG_CREATEWAV
+
+; Create WAV tape...
+;
+MSG_HAIL_CREATEWAV
+
+; Create WAV Tape
+;
+MSG_INSERTTAPE
+
+; Insert tape...
+;
+MSG_HAIL_INSERTTAPE
+
+; Insert Tape
+;
+MSG_HAIL_ADJUSTSPEED
+
+; Adjust Speed
+;
+MSG_HAIL_EMUSPEED
+
+; Emulation Speed
+;
+MSG_HAIL_BAUDRATE
+
+; Baud Rate
+;
+MSG_HISCORE
+
+; High score
+;
+MSG_COLOURS_PURE
+
+; Pure colours
+;
+MSG_COLOURS_UVI
+
+; UVI colours
+;
