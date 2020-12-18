@@ -1,6 +1,6 @@
-## version $VER: XX.catalog XX.XX (XX.XX.XX)
-## codeset X
-## language X
+## version $VER: AmiArcadia.catalog 1.0 (18.12.2020)
+## codeset 0
+## language türkçe
 ;
 MSG_PROJECT_RESETTOGAME
 
@@ -15,11 +15,11 @@ MSG_PROJECT_QUICKLOAD
 ; Quickload state (Alt-L)
 ;
 MSG_PROJECT_SAVEBIN
-
+BIN/PGM...
 ; BIN/PGM...
 ;
 MSG_PROJECT_SAVESNP
-
+Durum...
 ; State...
 ;
 MSG_PROJECT_QUICKSAVE
@@ -27,15 +27,15 @@ MSG_PROJECT_QUICKSAVE
 ; Quicksave state (Alt-S)
 ;
 MSG_PROJECT_SAVEACBM
-
+IFF ACBM...
 ; IFF ACBM...
 ;
 MSG_PROJECT_SAVEILBM
-
+IFF ILBM...
 ; IFF ILBM...
 ;
 MSG_PROJECT_SAVEBMP
-
+BMP...
 ; BMP...
 ;
 MSG_PROJECT_SERVER
@@ -47,23 +47,23 @@ MSG_PROJECT_CLIENT
 ; Connect as client...
 ;
 MSG_PROJECT_QUIT
-
+Çıkış
 ; Quit
 ;
 MSG_VIEW_CONTROLS
-
+Kontroller...
 ; Controls...
 ;
 MSG_VIEW_MONITOR_CPU
-
+CPU monitör...
 ; CPU monitor...
 ;
 MSG_VIEW_MRAM
-
+RAM
 ; RAM
 ;
 MSG_VIEW_SCRN
-
+Ekran
 ; Screen
 ;
 MSG_VIEW_UDCS
@@ -71,19 +71,19 @@ MSG_VIEW_UDCS
 ; UDC/sprite imagery
 ;
 MSG_VIEW_XVI
-
+UVI/PVIs
 ; UVI/PVIs
 ;
 MSG_VIEW_CPU
-
+CPU
 ; CPU
 ;
 MSG_VIEW_PSGS
-
+PSGs/TMSes
 ; PSGs/TMSes
 ;
 MSG_MACRO_START
-
+Kayıta başla...
 ; Start recording...
 ;
 MSG_MACRO_RESTART
@@ -95,7 +95,7 @@ MSG_MACRO_STOP
 ; Stop recording/playback
 ;
 MSG_MACRO_LOOP
-
+Tekrarla?
 ; Loop?
 ;
 MSG_MACRO_AREXX
@@ -107,7 +107,7 @@ MSG_DEBUG_CLI
 ; Debugger?
 ;
 MSG_CONTROLLERS_MENU
-
+Giriş
 ; Input
 ;
 MSG_CONTROLLERS_ANALOGFORGUEST
@@ -119,7 +119,7 @@ MSG_CONTROLLERS_SENSITIVITY
 ; Sensitivity...
 ;
 MSG_CONTROLLERS_AUTOFIRE
-
+Otomatik ateş?
 ; Autofire?
 ;
 MSG_CONTROLLERS_REQUIREBUTTON
@@ -135,7 +135,7 @@ MSG_CONTROLLERS_SWAPPED
 ; Swapped? (Alt-J)
 ;
 MSG_GRAPHICS_MENU
-
+Grafikler
 ; Graphics
 ;
 MSG_GRAPHICS_1XSIZE
@@ -159,7 +159,7 @@ MSG_GRAPHICS_FLAGLINE
 ; Flag line emulation?
 ;
 MSG_MACHINE_MENU
-
+Makine
 ; Machine
 ;
 MSG_MACHINE_ARCADIA
@@ -175,7 +175,7 @@ MSG_MACHINE_ELEKTOR
 ; Elektor TV Games Computer
 ;
 MSG_SPEED_MENU
-
+Hız
 ; Speed
 ;
 MSG_SPEED_PAUSED
@@ -183,11 +183,11 @@ MSG_SPEED_PAUSED
 ; Paused? (P)
 ;
 MSG_SPEED_NTSC
-
+NTSC
 ; NTSC
 ;
 MSG_SPEED_PAL
-
+PAL
 ; PAL
 ;
 MSG_SPEED_WARP
@@ -207,7 +207,7 @@ MSG_SPRITES_DEMULTIPLEX
 ; Demultiplex?
 ;
 MSG_SOUND_MENU
-
+Ses
 ; Sound
 ;
 MSG_SOUND_FILTERED
@@ -227,15 +227,15 @@ MSG_HELP_ABOUT
 ; About AmiArcadia...
 ;
 MSG_INFO_NAME
-
+Oyun adı:
 ; Game name:
 ;
 MSG_INFO_MACHINE
-
+Makine:
 ; Machine:
 ;
 MSG_INFO_SIZE
-
+Boyut:
 ; Size:
 ;
 MSG_INFO_ADDRESS
