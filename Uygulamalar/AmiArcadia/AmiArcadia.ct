@@ -3,11 +3,11 @@
 ## language türkçe
 ;
 MSG_PROJECT_RESETTOGAME
-
+Oyunu sıfırla (F5, Alt-R)
 ; Reset to game (F5, Alt-R)
 ;
 MSG_PROJECT_RESETTOMONITOR
-
+BIOS'a git
 ; Jump to BIOS
 ;
 MSG_PROJECT_QUICKLOAD
@@ -43,7 +43,7 @@ MSG_PROJECT_SERVER
 ; Act as server...
 ;
 MSG_PROJECT_CLIENT
-
+İstemci olarak bağlan...
 ; Connect as client...
 ;
 MSG_PROJECT_QUIT
@@ -99,7 +99,7 @@ Tekrarla?
 ; Loop?
 ;
 MSG_MACRO_AREXX
-
+Arexx betiği çalıştır...
 ; Run ARexx script...
 ;
 MSG_DEBUG_CLI
@@ -115,7 +115,7 @@ MSG_CONTROLLERS_ANALOGFORGUEST
 ; Analog for guest?
 ;
 MSG_CONTROLLERS_SENSITIVITY
-
+Hassasiyet...
 ; Sensitivity...
 ;
 MSG_CONTROLLERS_AUTOFIRE
@@ -363,11 +363,11 @@ MSG_CPU_GAD
 ; 2650 CPU Status
 ;
 MSG_FPS
-
+FPS
 ; FPS
 ;
 MSG_FPS_GAD
-
+FPS:
 ; FPS:
 ;
 MSG_FROM
@@ -375,11 +375,11 @@ MSG_FROM
 ; from
 ;
 MSG_NONE
-
+Hiçbiri
 ; None
 ;
 MSG_OK
-
+TAMAM
 ; OK
 ;
 MSG_PAUSED
@@ -395,7 +395,7 @@ MSG_PUBSCREEN
 ; Public screen name:
 ;
 MSG_QUITTING
-
+Çıkılıyor
 ; Quitting
 ;
 MSG_RESETTODEFAULTS
@@ -419,7 +419,7 @@ MSG_TO
 ; to
 ;
 MSG_USAGE
-
+Kullanım
 ; Usage
 ;
 MSG_UVI_GAD
@@ -435,11 +435,11 @@ MSG_ERROR_OPENWINDOW
 ; Can't open window!
 ;
 MSG_ENGINE_ANALOG
-
+Analog
 ; Analog
 ;
 MSG_ENGINE_BYTES
-
+%d bayt
 ; %d bytes
 ;
 MSG_ENGINE_CHANGEDCONTENTS
@@ -471,7 +471,7 @@ MSG_ENGINE_GOING
 ; Unpausing...\n\n
 ;
 MSG_ENGINE_HIGH
-
+yüksek
 ; high
 ;
 MSG_ENGINE_HITWP
@@ -487,7 +487,7 @@ MSG_ENGINE_ILLEGALREAD
 ; Instruction at $%X (raster %d) is reading $%02X from unreadable address %s!\n\n
 ;
 MSG_ENGINE_KILOBYTES
-
+K
 ; K
 ;
 MSG_ENGINE_LOGINSTRUCTIONS
